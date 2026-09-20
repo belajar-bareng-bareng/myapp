@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/belajar-bareng-bareng/myapp#readme",
   "dependencies": {
+    "dotenv": "^18.0.1",
     "express": "^5.2.1"
   }
 }
